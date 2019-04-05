@@ -56,3 +56,20 @@ defaults:
     values:
       layout: tag
 ...
+
+
+...
+collections:
+  ...
+  authors:
+    output: true
+    permalink: /authors/:path/
+...
+defaults:
+  - scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
+...
+...
