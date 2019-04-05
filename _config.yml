@@ -24,8 +24,9 @@ sass:
   style:        compressed
   
 # disqus_url
+disqus: True
 disqus_url: "igawailab@gmail.com"
-disqus_id: "igaw_ailab"
+disqus_shortname: igaw_ailab
 
 
 # Gems
