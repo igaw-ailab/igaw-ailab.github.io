@@ -43,7 +43,7 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-...
+#collections
 collections:
   tags:
     output: true
@@ -58,7 +58,7 @@ defaults:
 ...
 
 
-...
+#collections
 collections:
   ...
   authors:
