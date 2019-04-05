@@ -42,3 +42,17 @@ paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+...
+collections:
+  tags:
+    output: true
+    permalink: /tags/:path/
+...
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+...
