@@ -25,7 +25,7 @@ sass:
   
 # disqus_url
 disqus: True
-disqus_url: "igawailab@gmail.com"
+disqus_url: igawailab@gmail.com
 disqus_shortname: https-igaw-ailab-github-io-2
 
 
