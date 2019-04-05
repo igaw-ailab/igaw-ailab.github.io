@@ -1,8 +1,9 @@
 ---
-title: User Response Learning for Directly Optimizing Campaign Performance in Display Advertising
+layout: post
+title:  "User Response Learning for Directly Optimizing Campaign Performance in Display Advertising"
+author: "Neo"
 tags: PaperReview
 ---
-
 
 ### Introduction
 
