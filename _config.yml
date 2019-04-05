@@ -22,6 +22,11 @@ include:
 sass:
   sass_dir:     _sass
   style:        compressed
+  
+# disqus_url
+disqus_url : igawailab@gmail.com
+disqus_id : igaw_ailab
+
 
 # Gems
 plugins:
