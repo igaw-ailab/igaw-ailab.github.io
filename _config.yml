@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          IGAW AI-LAB TECH BLOG
+description:    "IGAW AI-LAB TECH BLOG"
+baseurl:        "/"
+url:            "https://igaw-ailab.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         igaw-ailab
+  url:          https://igaw-ailab.github.io
+  email:        igawailab@gmail.com
 
 # Build settings
 markdown:       kramdown
