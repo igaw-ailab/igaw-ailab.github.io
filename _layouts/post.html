@@ -23,13 +23,15 @@ comments: true
 
   {{ content }}
 
-</div>
-
 {% if page.comments %}
 <div id="post-disqus" class="container">
 {% include disqus.html %}
 </div>
 {% endif %}
+  
+</div>
+
+
 
 <div class="pagination">
   {% if page.next.url %}
