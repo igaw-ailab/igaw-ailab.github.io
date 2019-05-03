@@ -47,8 +47,5 @@ P의 각 행은 유저 한 명 한 명을 나타내는 것이고, 열은 그 유
 
 유저가 영화에 평점을 부여한 매트릭스가 있고, 그 매트릭스에서 유저가 평점을 부여하지 않은 영화에 대한 평점을 예측하는 문제를 풀기 위해 Matrix Factorization을 사용해보았습니다. 이미 평점이 부여되어 있는 부분을 정답으로 사용하고, 원래의 R 행렬을 그보다 작은 2개의 행렬로 분해해서 각 요소별로 정답과의 오차를 업데이트 해나가는 과정을 통해서 평점이 부여되지 않은 0인 요소를 갖는 부분의 추정치도 구할 수 있게 해주는 방법이 행렬 분해라고 할 수 있습니다. 
 
-참고 : [참고자료1](http://sanghyukchun.github.io/73/)
-[참고자료2](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/#source-code)
-[참고자료3](https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea)
-[참고자료4](http://www.albertauyeung.com/post/python-matrix-factorization/)
+참고 : [자료1](http://sanghyukchun.github.io/73/), [자료2](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/#source-code), [자료3](https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea), [자료4](http://www.albertauyeung.com/post/python-matrix-factorization/)
 
